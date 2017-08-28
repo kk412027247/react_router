@@ -1,6 +1,6 @@
-import React, { Component } from 'react';
+import React from 'react';
 
-import {View as TopMenu} from '../components/TomMenu';
+import {View as TopMenu} from '../components/TopMenu';
 
 const App = ({children}) => {
   return(
